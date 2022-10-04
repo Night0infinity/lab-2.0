@@ -7,6 +7,7 @@ int main()
 	double z2; // результат обчислення 2-го виразу
 	cout << "x = "; cin >> x;
 	z1 = 2 * x;
+	// z1
 	z2 = x + x;
 	cout << endl;
 	cout << "z1 = " << z1 << endl;
